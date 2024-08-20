@@ -1,5 +1,7 @@
 # Split Landing Page
 
+![cover](./assets/preview.gif)
+
 ## 🚀 Overview
 
 A split landing page created with HTML5, CSS3, and vanilla JavaScript.
